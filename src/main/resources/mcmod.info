@@ -1,0 +1,21 @@
+[
+{
+  "modid": "UniversalPowerLines",
+  "name": "UniversalPowerLines",
+  "description": "A Mod about Power Distribution",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "the_rooster"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
