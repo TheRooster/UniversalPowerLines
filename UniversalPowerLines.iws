@@ -745,7 +745,11 @@
       <created>1416169406275</created>
       <updated>1416169406275</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="-Added Rubber&#10;-Added Rubberized Boots&#10;-Added Initial Tesla Coil Block">
+      <created>1416169412828</created>
+      <updated>1416169412828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
