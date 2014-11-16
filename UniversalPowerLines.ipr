@@ -171,7 +171,11 @@
   </component>
   <component name="ProjectCodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
-      <value />
+      <value>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+      </value>
     </option>
     <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default (1)" />
   </component>
@@ -180,7 +184,7 @@
       <module fileurl="file://$PROJECT_DIR$/UniversalPowerLines.iml" filepath="$PROJECT_DIR$/UniversalPowerLines.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="SvnBranchConfigurationManager">

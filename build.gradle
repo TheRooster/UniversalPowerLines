@@ -17,12 +17,12 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.7.2-0.1"
-group = "com.rooster.UniversalPowerLines" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "UniversalPowerLines"
+version = "1.7.10-0.1"
+group = "com.rooster.universalpowerlines" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "universalpowerlines"
 
 minecraft {
-    version = "1.7.10-10.13.0.1180"
+    version = "1.7.10-10.13.2.1236"
     assetDir = "eclipse/assets"
 }
 
