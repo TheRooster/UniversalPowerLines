@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e169e647-278d-4886-a9ba-0740ed208f69" name="Default" comment="-Removed Unused Textures&#10;">
-      <change type="DELETED" beforePath="E:\Projects\UniversalPowerLines\src\main\resources\assets\universalpowerlines\textures\items\bootsChainRubberized.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\Projects\UniversalPowerLines\src\main\resources\assets\universalpowerlines\textures\items\bootsClothRubberized.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\Projects\UniversalPowerLines\src\main\resources\assets\universalpowerlines\textures\items\bootsDiamondRubberized.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\Projects\UniversalPowerLines\src\main\resources\assets\universalpowerlines\textures\items\bootsGoldRubberized.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\Projects\UniversalPowerLines\src\main\resources\assets\universalpowerlines\textures\items\bootsIronRubberized.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniversalPowerLines.iws" afterPath="$PROJECT_DIR$/UniversalPowerLines.iws" />
     </list>
     <ignored path="UniversalPowerLines.iws" />
@@ -786,7 +781,11 @@
       <created>1416169418518</created>
       <updated>1416169418518</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-Removed Unused Textures&#10;">
+      <created>1416169826627</created>
+      <updated>1416169826627</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
