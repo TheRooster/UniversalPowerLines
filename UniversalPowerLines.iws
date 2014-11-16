@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e169e647-278d-4886-a9ba-0740ed208f69" name="Default" comment="-Really added files this time&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/universalpowerlines/textures/blocks/blockTeslaCoil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/universalpowerlines/textures/items/rubberBall.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniversalPowerLines.iws" afterPath="$PROJECT_DIR$/UniversalPowerLines.iws" />
     </list>
     <ignored path="UniversalPowerLines.iws" />
@@ -908,7 +906,11 @@
       <created>1416169834047</created>
       <updated>1416169834047</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="-Really added files this time&#10;">
+      <created>1416170208480</created>
+      <updated>1416170208480</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
