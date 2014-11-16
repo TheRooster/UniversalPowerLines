@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e169e647-278d-4886-a9ba-0740ed208f69" name="Default" comment="-Added Rubber&#10;-Added Rubberized Boots&#10;-Added Initial Tesla Coil Block">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/universalpowerlines/textures/items/bootsChainRubberized.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/universalpowerlines/textures/items/bootsClothRubberized.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/universalpowerlines/textures/items/bootsDiamondRubberized.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/universalpowerlines/textures/items/bootsGoldRubberized.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/universalpowerlines/textures/items/bootsIronRubberized.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/universalpowerlines/lang/en_US.lang" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniversalPowerLines.iml" afterPath="$PROJECT_DIR$/UniversalPowerLines.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniversalPowerLines.ipr" afterPath="$PROJECT_DIR$/UniversalPowerLines.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniversalPowerLines.iws" afterPath="$PROJECT_DIR$/UniversalPowerLines.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
     </list>
     <ignored path="UniversalPowerLines.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -750,7 +741,11 @@
       <created>1407128093657</created>
       <updated>1407128093657</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-Added Rubber&#10;-Added Rubberized Boots&#10;-Added Initial Tesla Coil Block">
+      <created>1416169406275</created>
+      <updated>1416169406275</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
