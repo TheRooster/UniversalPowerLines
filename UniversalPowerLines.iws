@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e169e647-278d-4886-a9ba-0740ed208f69" name="Default" comment="-Added Creative Tab&#10;-Moved all items to new Creative tab&#10;-Fixed localization for tesla coil">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rooster/universalpowerlines/creativetab/CreativeTabUPL.java" />
+      <change type="MODIFICATION" beforePath="E:\Projects\UniversalPowerLines\src\main\java\com\rooster\universalpowerlines\blocks\BlockUPLBase.java" afterPath="$PROJECT_DIR$/src/main/java/com/rooster/universalpowerlines/blocks/BlockUPLBase.java" />
+      <change type="MODIFICATION" beforePath="E:\Projects\UniversalPowerLines\src\main\java\com\rooster\universalpowerlines\items\ItemRubber.java" afterPath="$PROJECT_DIR$/src/main/java/com/rooster/universalpowerlines/items/ItemRubber.java" />
+      <change type="MODIFICATION" beforePath="E:\Projects\UniversalPowerLines\src\main\java\com\rooster\universalpowerlines\items\ItemRubberizedBoots.java" afterPath="$PROJECT_DIR$/src/main/java/com/rooster/universalpowerlines/items/ItemRubberizedBoots.java" />
+      <change type="MODIFICATION" beforePath="E:\Projects\UniversalPowerLines\src\main\java\com\rooster\universalpowerlines\items\ItemUPLBase.java" afterPath="$PROJECT_DIR$/src/main/java/com/rooster/universalpowerlines/items/ItemUPLBase.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniversalPowerLines.iws" afterPath="$PROJECT_DIR$/UniversalPowerLines.iws" />
     </list>
     <ignored path="UniversalPowerLines.iws" />
@@ -430,32 +435,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="items" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UniversalPowerLines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UniversalPowerLines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rooster" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="universalpowerlines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="creativetab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
@@ -806,7 +785,11 @@
       <created>1416171603830</created>
       <updated>1416171603830</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="-Added Creative Tab&#10;-Moved all items to new Creative tab&#10;-Fixed localization for tesla coil">
+      <created>1416171641817</created>
+      <updated>1416171641817</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">

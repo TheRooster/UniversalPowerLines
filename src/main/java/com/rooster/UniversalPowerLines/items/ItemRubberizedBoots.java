@@ -1,5 +1,6 @@
 package com.rooster.universalpowerlines.items;
 
+import com.rooster.universalpowerlines.creativetab.CreativeTabUPL;
 import com.rooster.universalpowerlines.reference.Reference;
 import net.minecraft.enchantment.Enchantment;
 import net.minecraft.entity.player.EntityPlayer;
@@ -19,6 +20,7 @@ public class ItemRubberizedBoots extends ItemArmor
     public ItemRubberizedBoots(ArmorMaterial material, int p_i45325_2_, int type)
     {
         super(material, p_i45325_2_, type);
+        this.setCreativeTab(CreativeTabUPL.UPL_TAB);
     }
 
 

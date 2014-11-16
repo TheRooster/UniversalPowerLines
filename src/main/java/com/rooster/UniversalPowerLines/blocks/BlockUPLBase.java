@@ -1,5 +1,6 @@
 package com.rooster.universalpowerlines.blocks;
 
+import com.rooster.universalpowerlines.creativetab.CreativeTabUPL;
 import com.rooster.universalpowerlines.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -16,11 +17,13 @@ public class BlockUPLBase extends Block
     protected BlockUPLBase(Material material)
     {
         super(material);
+        this.setCreativeTab(CreativeTabUPL.UPL_TAB);
     }
 
     public BlockUPLBase()
     {
         super(Material.rock);
+        this.setCreativeTab(CreativeTabUPL.UPL_TAB);
     }
 
 

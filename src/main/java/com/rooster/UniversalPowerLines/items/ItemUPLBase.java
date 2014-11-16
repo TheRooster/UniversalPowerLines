@@ -1,5 +1,6 @@
 package com.rooster.universalpowerlines.items;
 
+import com.rooster.universalpowerlines.creativetab.CreativeTabUPL;
 import com.rooster.universalpowerlines.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -15,6 +16,7 @@ public class ItemUPLBase extends Item
     public ItemUPLBase()
     {
         super();
+        this.setCreativeTab(CreativeTabUPL.UPL_TAB);
     }
 
     @Override
