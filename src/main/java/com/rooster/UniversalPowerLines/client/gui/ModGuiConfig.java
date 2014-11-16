@@ -1,8 +1,8 @@
-package com.rooster.UniversalPowerLines.client.gui;
+package com.rooster.universalpowerlines.client.gui;
 
 
-import com.rooster.UniversalPowerLines.handler.ConfigurationHandler;
-import com.rooster.UniversalPowerLines.reference.Reference;
+import com.rooster.universalpowerlines.handler.ConfigurationHandler;
+import com.rooster.universalpowerlines.reference.Reference;
 import cpw.mods.fml.client.config.GuiConfig;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.common.config.ConfigElement;

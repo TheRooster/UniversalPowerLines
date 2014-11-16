@@ -1,6 +1,6 @@
-package com.rooster.UniversalPowerLines.utility;
+package com.rooster.universalpowerlines.utility;
 
-import com.rooster.UniversalPowerLines.reference.Reference;
+import com.rooster.universalpowerlines.reference.Reference;
 import cpw.mods.fml.common.FMLLog;
 import org.apache.logging.log4j.Level;
 

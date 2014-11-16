@@ -1,4 +1,4 @@
-package com.rooster.UniversalPowerLines.client.gui;
+package com.rooster.universalpowerlines.client.gui;
 
 import cpw.mods.fml.client.IModGuiFactory;
 import net.minecraft.client.Minecraft;

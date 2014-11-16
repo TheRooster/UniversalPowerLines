@@ -1,7 +1,7 @@
-package com.rooster.UniversalPowerLines.handler;
+package com.rooster.universalpowerlines.handler;
 
 
-import com.rooster.UniversalPowerLines.reference.Reference;
+import com.rooster.universalpowerlines.reference.Reference;
 import cpw.mods.fml.client.event.ConfigChangedEvent;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.common.config.Configuration;
